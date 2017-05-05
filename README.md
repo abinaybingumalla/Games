@@ -10,12 +10,12 @@ The Game Complexity will increase as you find the missing smiley face. <br/>
 <img src="matching.png" align="middle">
 
 <h3> 2) Games developed in Python</h3> <br/> 
-<a href="http://www.codeskulptor.org/#user39_jCKFJUdDFcLLWze.py"> GUESS NUMBER </a> <br/>
-<a href="http://www.codeskulptor.org/#user39_vJFCKuwjWrNVgfv.py">Air Hockey </a> <br/>
-<a href="http://www.codeskulptor.org/#user39_lADXK596vb_12.py"> Memory</a> <br/>
-<a href="http://www.codeskulptor.org/#user41_DBx5C8BnaD3UxYw.py"> Screensaver</a> <br/>
-<a href="http://www.codeskulptor.org/#user39_cFGcOIh2nrckXsj.py"> Timer </a> <br/>
+<a target="_blank" href="http://www.codeskulptor.org/#user39_jCKFJUdDFcLLWze.py"> GUESS NUMBER </a> <br/>
+<a target="_blank" href="http://www.codeskulptor.org/#user39_vJFCKuwjWrNVgfv.py">Air Hockey </a> <br/>
+<a target="_blank" href="http://www.codeskulptor.org/#user39_lADXK596vb_12.py"> Memory</a> <br/>
+<a target="_blank" href="http://www.codeskulptor.org/#user41_DBx5C8BnaD3UxYw.py"> Screensaver</a> <br/>
+<a target="_blank" href="http://www.codeskulptor.org/#user39_cFGcOIh2nrckXsj.py"> Timer </a> <br/>
 
-
-
+<h3> Memory Game</h3>
+<img src="memory.png" align="middle">
 ---------------------------------------------------------------------------------------------------
